@@ -1,8 +1,6 @@
 package org.example.proyectohospitalpost.service;
 
-
 import org.example.proyectohospitalpost.entity.Patient;
-
 import java.util.List;
 
 public interface IPatientService {
